@@ -1,0 +1,6 @@
+.idea/
+product/__pycache__/
+product/migrations/
+timeattack0610/__pycache__/
+user/__pycache__/
+user/migrations/
